@@ -24,6 +24,8 @@
 
 <h3>pip install tk</h3>
 
+<p>Write your words in any .txt files. Ex : wordlist.txt</p>
+
 <h2>RUN APP AND ENJOY !!!</h2>
 
 <p>py main.py</p>
